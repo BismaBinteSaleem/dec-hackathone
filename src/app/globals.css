@@ -25,3 +25,20 @@ body {
     text-wrap: balance;
   }
 }
+herotext1{
+  font-size: 15px black;
+  font-family: herotext1;
+  font-weight: bold;
+}
+herotext{
+  font-size: 15px black;
+  font-family: herotext1;
+
+
+}
+herotext1,herotext{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
