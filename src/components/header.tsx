@@ -39,15 +39,15 @@ export default function Header() {
               </li>
               <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/'
                 className='text-[#007bff] hover:text-[#007bff] text-[15px] block font-semibold'>New & Features</Link></li>
-              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/men'
+              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/allproduct'
                 className='text-[#333] hover:text-[#007bff] text-[15px] block font-semibold'>Men</Link></li>
-              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/women'
+              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/allproduct'
                 className='text-[#333] hover:text-[#007bff] text-[15px] block font-semibold'>Women</Link></li>
-              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/kids'
+              <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='/allproduct'
                 className='text-[#333] hover:text-[#007bff] text-[15px] block font-semibold'>Kids</Link></li>
-                <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='sale'
+                <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='allproduct'
                 className='text-[#333] hover:text-[#007bff] text-[15px] block font-semibold'>Sale</Link></li>
-                 <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='snkrs'
+                 <li className='max-lg:border-b max-lg:py-3 px-3'><Link href='allproduct'
                 className='text-[#333] hover:text-[#007bff] text-[15px] block font-semibold'>SNKRS</Link></li>
             
             </ul>
