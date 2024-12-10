@@ -37,7 +37,7 @@ export default function Contact(){
             Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro
           </div>
           <div className="absolute top-[45px] left-[16px] text-sm leading-[28px] flex items-center w-[870.9px] h-[17px]">
-            If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.
+            If you enter your PAN information at checkout, you&apos;ll be able to pay for your order with PayTM or a local credit or debit card.
           </div>
           <div className="absolute top-[85px] left-[16px] leading-[28px] flex items-center w-[73.1px] h-[17px]">
             Apple Pay
@@ -48,7 +48,7 @@ export default function Contact(){
             <div className="absolute top-[5px] left-0 leading-[28px] flex items-center w-[894.3px] h-[45px]">
               <span className="w-full">
                 <span className="underline font-medium">Nike Members</span>
-                <span>{` can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member, `}</span>
+                <span>{` can store multiple debit or credit cards in their profile for faster checkout. If you&apos;re not already a Member, `}</span>
                 <span className="underline font-medium">join us</span>
                 <span> today.</span>
               </span>
@@ -93,7 +93,7 @@ export default function Contact(){
               <p className="m-0">
                 <b>Can I pay for my order with multiple methods?</b>
               </p>
-              <p className="m-0">No, payment for Nike orders can't be split between multiple payment methods.</p>
+              <p className="m-0">No, payment for Nike orders can&apos;t be split between multiple payment methods.</p>
             </span>
           </div>
         </div>
@@ -107,10 +107,10 @@ export default function Contact(){
         </div>
         <div className="absolute top-[651px] left-0 w-[923.8px] h-[112px] text-sm">
           <div className="absolute top-0 left-0 flex flex-row items-start justify-start px-[0.4px]">
-            <b className="relative leading-[28px]">Why don't I see Apple Pay as an option?</b>
+            <b className="relative leading-[28px]">Why don&apos;t I see Apple Pay as an option?</b>
           </div>
           <div className="absolute top-[33px] left-0 leading-[28px] flex items-center w-[922px] h-[73px]">
-            To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.
+            To see Apple Pay as an option in the Nike App or on Nike.com, you&apos;ll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you&apos;ll need to use Safari to use Apple Pay on Nike.com.
           </div>
         </div>
         <div className="absolute top-[783px] left-0 w-[923.8px] h-[175px]">
@@ -131,7 +131,7 @@ export default function Contact(){
             </div>
             <div className="absolute top-[40px] left-[16px] w-[907.8px] h-[68px] text-[#111]">
               <div className="absolute top-[5px] left-[16px] underline leading-[28px] font-medium flex items-center w-[306.2px] h-[17px]">
-                WHAT ARE NIKE'S DELIVERY OPTIONS?
+                WHAT ARE NIKE&apos;S DELIVERY OPTIONS?
               </div>
               <div className="absolute top-[45px] left-[16px] underline leading-[28px] font-medium flex items-center w-[395.8px] h-[17px]">
                 HOW DO I GET FREE DELIVERY ON NIKE ORDERS?

@@ -54,7 +54,7 @@ export default function Home() {
         </div>
        
        <div>
-           <h1 className="text-[22px] w-90.9px h- 27px"><strong>Don't Miss</strong></h1>
+           <h1 className="text-[22px] w-90.9px h- 27px"><strong>Don&apos;t Miss</strong></h1>
          <div className=" pt-[52px]">
            <Image src={"/images/Dontmiss.jpg"} alt="logo" width={1344} height={700}></Image>
           </div>

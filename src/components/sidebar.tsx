@@ -23,7 +23,7 @@ export default function ProductPage() {
   // State for different sections
   const [isGenderOpen, setIsGenderOpen] = useState(true);
   const [isSportsOpen, setIsSportsOpen] = useState(false);
-  const [isBrandsOpen, setIsBrandsOpen] = useState(false);
+  // const [isBrandsOpen, setIsBrandsOpen] = useState(false);
   const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
    
   
